@@ -65,7 +65,32 @@ float neuronOutput = MathF.Max(0, dot + bias);
 //Showing the result
 Console.WriteLine($"Neuron result: {neuronOutput}");
 ```
+## ☕ Support NanoVector ⚡
+If this library saved your nanoseconds, consider a tip:
 
+<table border="0">
+  <tr>
+    <td align="center">
+      <img src="qr-evm.png" width="150"><br>
+      <b>ETH / EVM</b><br>
+      <code>0x8E0C7...BCc3</code>
+    </td>
+    <td align="center">
+      <img src="qr-btc.png" width="150"><br>
+      <b>Bitcoin</b><br>
+      <code>bc1qg2g...7lqz</code>
+    </td>
+    <td align="center">
+      <img src="qr-sol.png" width="150"><br>
+      <b>Solana</b><br>
+      <code>7YBVmUg...MZ1o</code>
+    </td>
+  </tr>
+</table>
+
+* **ETH / Polygon / BSC / Base (EVM):** `0x8E0C732094a1645668609Dc516a2304B8aaaBCc3`
+* **Bitcoin (BTC):** `bc1qg2gh4s82yll4cnck26z63ycksngj54kjtz7lqz`
+* **Solana (SOL):** `7YBVmUggTMmGH8MQ6HU847PfubAUKMxxw3Cx9NLUMZ1o`
 ## 🛡️ License
 
 Distributed under the **MIT License**. See `LICENSE` for more information.
