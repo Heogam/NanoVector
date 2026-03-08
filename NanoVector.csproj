@@ -3,7 +3,7 @@
 
   <PropertyGroup>
 	  <PackageId>NanoVector</PackageId>
-	  <Version>1.0.0</Version>
+	  <Version>1.0.1</Version>
 	  <Authors>Heogam</Authors>
 	  <Description>Simple and efficient SIMD-accelerated vector library for C#. Built with performance and zero allocations in mind.</Description>
 	  <PackageTags>vector;simd;performance;unsafe;ai;math;span;zero-allocation</PackageTags>
@@ -12,6 +12,8 @@
 	  <PackageReadmeFile>README.md</PackageReadmeFile>
 	  <IncludeSymbols>true</IncludeSymbols>
 	  <SymbolPackageFormat>snupkg</SymbolPackageFormat>
+	  <RepositoryUrl>https://github.com/Heogam/NanoVector</RepositoryUrl>
+	  <RepositoryType>git</RepositoryType>
     <TargetFramework>net8.0</TargetFramework>
 	  <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
 	  <Optimize>true</Optimize>

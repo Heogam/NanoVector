@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="icon.png" width="128" height="128" alt="NanoVector Logo">
+  <img src="https://raw.githubusercontent.com/Heogam/NanoVector/main/icon.png" width="128" height="128" alt="NanoVector Logo">
 </p>
 
 # ⏏NanoVector⚡
@@ -71,17 +71,17 @@ If this library saved your nanoseconds, consider a tip:
 <table border="0">
   <tr>
     <td align="center">
-      <img src="qr-evm.png" width="150"><br>
+      <img src="https://raw.githubusercontent.com/Heogam/NanoVector/main/qr-evm.png" width="150"><br>
       <b>ETH / EVM</b><br>
       <code>0x8E0C7...BCc3</code>
     </td>
     <td align="center">
-      <img src="qr-btc.png" width="150"><br>
+      <img src="https://raw.githubusercontent.com/Heogam/NanoVector/main/qr-btc.png" width="150"><br>
       <b>Bitcoin</b><br>
       <code>bc1qg2g...7lqz</code>
     </td>
     <td align="center">
-      <img src="qr-sol.png" width="150"><br>
+      <img src="https://raw.githubusercontent.com/Heogam/NanoVector/main/qr-sol.png" width="150"><br>
       <b>Solana</b><br>
       <code>7YBVmUg...MZ1o</code>
     </td>
