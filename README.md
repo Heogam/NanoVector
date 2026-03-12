@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Heogam/NanoVector/main/icon.png" width="128" height="128" alt="NanoVector Logo">
-</p>
+![NanoVector Logo](https://raw.githubusercontent.com/Heogam/NanoVector/main/icon.png)
 
 # ⏏NanoVector⚡
 ## A high-performance, SIMD-accelerated vector library for .NET. Minimalist, zero-allocation, and engineered for raw speed.
@@ -68,29 +66,14 @@ Console.WriteLine($"Neuron result: {neuronOutput}");
 ## ☕ Support NanoVector ⚡
 If this library saved your nanoseconds, consider a tip:
 
-<table border="0">
-  <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Heogam/NanoVector/main/qr-evm.png" width="150"><br>
-      <b>ETH / EVM</b><br>
-      <code>0x8E0C7...BCc3</code>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Heogam/NanoVector/main/qr-btc.png" width="150"><br>
-      <b>Bitcoin</b><br>
-      <code>bc1qg2g...7lqz</code>
-    </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/Heogam/NanoVector/main/qr-sol.png" width="150"><br>
-      <b>Solana</b><br>
-      <code>7YBVmUg...MZ1o</code>
-    </td>
-  </tr>
-</table>
+| ETH / EVM | Bitcoin | Litecoin |
+| :---: | :---: | :---: |
+| ![EVM QR](https://raw.githubusercontent.com/Heogam/NanoVector/main/qr-evm.png) | ![BTC QR](https://raw.githubusercontent.com/Heogam/NanoVector/main/qr-btc.png) | ![LTC QR](https://raw.githubusercontent.com/Heogam/NanoVector/main/qr-ltc.png) |
+| `0xCCDD9...4AB4` | `bc1qjmw...uhcd` | `LgSVCqN...VP3o` |
 
-* **ETH / Polygon / BSC / Base (EVM):** `0x8E0C732094a1645668609Dc516a2304B8aaaBCc3`
-* **Bitcoin (BTC):** `bc1qg2gh4s82yll4cnck26z63ycksngj54kjtz7lqz`
-* **Solana (SOL):** `7YBVmUggTMmGH8MQ6HU847PfubAUKMxxw3Cx9NLUMZ1o`
+* **ETH / Polygon / BSC / Base (EVM):** `0xCCDD90984C6e9BC4a84e10c402CF85e69f9A4AB4`
+* **Bitcoin (BTC):** `bc1qjmwjjcqnphrc3qmy6x9pl5qk06a28msdw8uhcd`
+* **Litecoin (LTC):** `LgSVCqNyt44Rgg7jPTkbiKzskedy5AVP3o`
 ## 🛡️ License
 
 Distributed under the **MIT License**. See `LICENSE` for more information.
